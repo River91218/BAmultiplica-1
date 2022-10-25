@@ -1,0 +1,10 @@
+.navbar{
+    background-color: darkgray;
+}
+header{
+    background-color: crimson;
+}
+.navbar a{
+    text-decoration: none;
+    color: aquamarine;
+}
